@@ -1,0 +1,29 @@
+_repo: The-Singing-ManA-Book-of-Songs-and-Shadows_14531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peabody, Josephine Preston
+    alias: Marks, Mrs. Lionel
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '3012'
+    url: http://www.gutenberg.org/2009/agents/3012
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
+description: ''
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14531'
+  lccn: '11029670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'The Singing Man: A Book of Songs and Shadows'
+url: http://www.gutenberg.org/ebooks/14531
